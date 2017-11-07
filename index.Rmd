@@ -1,0 +1,28 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# 
+
+## Student Web Pages from DS I Fall 2017
+
+* [Sam](http://samanthagiardina.github.io)
+* [Megan](http://megangillis.github.io)
+* [Xan](http://xanhendrix.github.io)
+* [Mitch](http://mitchell-holman.github.io)
+* [Bowen](http://bowenjones.github.io)
+* [Hannah](http://laswhannah.github.io)
+* [Kelly](http://kellyloucks.github.io)
+* [Andrew](http://andrewmartinsmith.github.io)
+* [Matt](http://mccaskey.github.io)
+* [Lauren](http://murrayln3.github.io)
+* [Sammy](http://sampshyk.github.io)
+* [David](http://davidross3.github.io)
+* [Tucker](http://southernt.github.io)
+* [Paige](http://spellkp.github.io)
+* [Cathryn](http://wheelercat.github.io)
+* [Samantha](http://samanthawidman.github.io)
