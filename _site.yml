@@ -20,6 +20,6 @@ navbar:
 
 output:
   html_document:
-    theme: yeti
-    highlight: textmate
+    theme: cosmo
+    highlight: zenburn
     
